@@ -1,0 +1,69 @@
+body{
+    background: #666666;
+    overflow: hidden;
+    
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.logo , .right{
+    padding-left: 0;
+    padding-right: 0;
+}
+.logopic{
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
+
+
+.banner{
+    background: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+.right{
+    margin-top: -5px;
+    
+}
+
+.card{
+    background: url(7650b257d59c072f34d09c4cd0e22e22.jpg), linear-gradient(179.48deg, rgba(255, 255, 255, 0.1) -58.42%, rgba(255, 255, 255, 0) 115.32%);
+backdrop-filter: blur(2.978px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 16.652px;
+
+}
+
+.button{
+    border: #ffffff;
+    background: url(7650b257d59c072f34d09c4cd0e22e22.jpg), linear-gradient(194.09deg, rgba(80, 80, 80, 0.7) 11.25%, rgba(80, 80, 80, 0.3) 91.19%);
+backdrop-filter: blur(21.3318px);
+
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 7.55451px;
+
+}
+
+.form-control , .input-group-text{
+    background-color: rgb(230, 230, 230,0.2)
+    
+}
+.user{
+    width: 60px;
+height: 60px;
+}
+
+ .backcard{
+    margin: 85px 20px 100px 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+} 
+
+.enable{
+    width: 40px;
+    height: 25px;
+}
